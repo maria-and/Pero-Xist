@@ -1,0 +1,9 @@
+sample_id,species,sex,tissue,assay,rna_modality,chromatin_modality,replicate,age,reference_genome,bio_project
+PL_F_1,Pero,female,liver,Paired-Tag,RNA,H3K27me3,1,adult,GCF_004664715.2,PRJNA1466601
+PL_M_2,Pero,female,liver,Paired-Tag,RNA,H3K27me3,2,adult,GCF_004664715.2,PRJNA1466601
+PL_M_1,Pero,male,liver,Paired-Tag,RNA,H3K27me3,1,adult,GCF_004664715.2,PRJNA1466601
+PL_F_2,Pero,male,liver,Paired-Tag,RNA,H3K27me3,2,adult,GCF_004664715.2,PRJNA1466601
+8_1_F_R1,Mus,female,liver,Paired-Tag,RNA,H3K27me3,1,adult,GRCm39,PRJNA1466601
+9_1_F_R2,Mus,female,liver,Paired-Tag,RNA,H3K27me3,2,adult,GRCm39,PRJNA1466601
+6_1_M_R1,Mus,male,liver,Paired-Tag,RNA,H3K27me3,1,adult,GRCm39,PRJNA1466601
+7_1_M_R2,Mus,male,liver,Paired-Tag,RNA,H3K27me3,2,adult,GRCm39,PRJNA1466601

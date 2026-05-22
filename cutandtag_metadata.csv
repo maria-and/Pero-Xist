@@ -1,0 +1,9 @@
+sample_id,species,sex,tissue,cell_type,assay,histone_mark,replicate,age,reference_genome,bio_project
+Peromyscus_F_1,Pero,female,ear_fibroblast,primary_fibroblast,CUT&Tag,H3K27me3,1,adult,GCF_004664715.2,PRJNA1466562
+Peromyscus_F_2,Pero,female,ear_fibroblast,primary_fibroblast,CUT&Tag,H3K27me3,2,adult,GCF_004664715.2,PRJNA1466562
+Peromyscus_M_1,Pero,male,ear_fibroblast,primary_fibroblast,CUT&Tag,H3K27me3,1,adult,GCF_004664715.2,PRJNA1466562
+Peromyscus_M_2,Pero,male,ear_fibroblast,primary_fibroblast,CUT&Tag,H3K27me3,2,adult,GCF_004664715.2,PRJNA1466562
+Mus_F_1,Mus,female,ear_fibroblast,primary_fibroblast,CUT&Tag,H3K27me3,1,adult,GRCm39,PRJNA1466562
+Mus_F_2,Mus,female,ear_fibroblast,primary_fibroblast,CUT&Tag,H3K27me3,2,adult,GRCm39,PRJNA1466562
+Mus_M_1,Mus,male,ear_fibroblast,primary_fibroblast,CUT&Tag,H3K27me3,1,adult,GRCm39,PRJNA1466562
+Mus_M_2,Mus,male,ear_fibroblast,primary_fibroblast,CUT&Tag,H3K27me3,2,adult,GRCm39,PRJNA1466562
